@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-// Deque implementation using circular array NOT WORKING PERFECTLY NEED TO BE IMPLEMENTED
+// Deque implementation using circular array NOT WORKING PERFECTLY NEED TO BE IMPROVED
 public class Deque<Item> implements Iterable<Item> {
     private static final int INITIAL_CAPACITY = 2;
     private Item[] items;
