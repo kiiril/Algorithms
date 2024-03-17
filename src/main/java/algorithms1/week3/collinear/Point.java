@@ -1,4 +1,4 @@
-// package algorithms1.week3.collinear;
+package algorithms1.week3.collinear;
 
 import edu.princeton.cs.algs4.StdDraw;
 

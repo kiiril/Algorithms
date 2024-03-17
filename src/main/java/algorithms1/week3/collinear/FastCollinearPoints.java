@@ -109,6 +109,7 @@ public class FastCollinearPoints {
 //        }
 // }
 
+    // FIXME not my solution, but gives the best result
     private void findCollinearSegments(Point[] points) {
 
         Point[] pointsNaturalOrder = Arrays.copyOf(points, points.length);

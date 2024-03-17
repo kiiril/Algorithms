@@ -1,6 +1,6 @@
-// package algorithms1.week3.collinear;
+package algorithms1.week3.collinear;
 
-// import algorithms1.week3.LineSegment;
+import algorithms1.week3.LineSegment;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdOut;
@@ -64,7 +64,6 @@ public class BruteCollinearPoints {
     }
 
     public static void main(String[] args) {
-
         // read the n points from a file
 //        In in = new In(args[0]);
         In in = new In("src/test/java/algorithms1/week3/collinear/input8.txt");
